@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk"
+    },
+    {
+      "id": "2",
+      "text": "Learn Nextjs"
+    },
+    {
+      "id": "3",
+      "text": "Learn React"
+    },
+    {
+      "id": "4",
+      "text": "Go to gym"
+    },
+    {
+      "id": "c8fcda3d-78a4-4c7e-9546-3b1361fe80fe",
+      "text": "Go to Market to buy eggs"
+    },
+    {
+      "id": "8e1f5917-50dc-45e9-8aa7-3132007734fa",
+      "text": "Learn a new Language"
+    }
+  ]
+}
